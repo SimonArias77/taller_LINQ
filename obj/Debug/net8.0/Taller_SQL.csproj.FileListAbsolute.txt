@@ -1,0 +1,14 @@
+/home/riwip5-006/SIMON77/Taller_LINQ/bin/Debug/net8.0/Taller_SQL
+/home/riwip5-006/SIMON77/Taller_LINQ/bin/Debug/net8.0/Taller_SQL.deps.json
+/home/riwip5-006/SIMON77/Taller_LINQ/bin/Debug/net8.0/Taller_SQL.runtimeconfig.json
+/home/riwip5-006/SIMON77/Taller_LINQ/bin/Debug/net8.0/Taller_SQL.dll
+/home/riwip5-006/SIMON77/Taller_LINQ/bin/Debug/net8.0/Taller_SQL.pdb
+/home/riwip5-006/SIMON77/Taller_LINQ/obj/Debug/net8.0/Taller_SQL.GeneratedMSBuildEditorConfig.editorconfig
+/home/riwip5-006/SIMON77/Taller_LINQ/obj/Debug/net8.0/Taller_SQL.AssemblyInfoInputs.cache
+/home/riwip5-006/SIMON77/Taller_LINQ/obj/Debug/net8.0/Taller_SQL.AssemblyInfo.cs
+/home/riwip5-006/SIMON77/Taller_LINQ/obj/Debug/net8.0/Taller_SQL.csproj.CoreCompileInputs.cache
+/home/riwip5-006/SIMON77/Taller_LINQ/obj/Debug/net8.0/Taller_SQL.dll
+/home/riwip5-006/SIMON77/Taller_LINQ/obj/Debug/net8.0/refint/Taller_SQL.dll
+/home/riwip5-006/SIMON77/Taller_LINQ/obj/Debug/net8.0/Taller_SQL.pdb
+/home/riwip5-006/SIMON77/Taller_LINQ/obj/Debug/net8.0/Taller_SQL.genruntimeconfig.cache
+/home/riwip5-006/SIMON77/Taller_LINQ/obj/Debug/net8.0/ref/Taller_SQL.dll
