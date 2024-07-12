@@ -12,3 +12,4 @@
 /home/riwip5-006/SIMON77/Taller_LINQ/obj/Debug/net8.0/Taller_SQL.pdb
 /home/riwip5-006/SIMON77/Taller_LINQ/obj/Debug/net8.0/Taller_SQL.genruntimeconfig.cache
 /home/riwip5-006/SIMON77/Taller_LINQ/obj/Debug/net8.0/ref/Taller_SQL.dll
+/home/riwip5-006/SIMON77/taller_LINQ/obj/Debug/net8.0/Taller_SQL.sourcelink.json

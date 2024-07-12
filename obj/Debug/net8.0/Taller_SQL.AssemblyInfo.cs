@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Taller_SQL")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7c97da776864205fb14f5869f364134f03bca580")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+60f093f99bc9dfc922e2849f2abf7e03a20bd48e")]
 [assembly: System.Reflection.AssemblyProductAttribute("Taller_SQL")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Taller_SQL")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
